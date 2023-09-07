@@ -12,6 +12,8 @@
 
 using namespace std;
 
+
+//// this is an example
 struct basicCubeVertex
 {
 	glm::vec3 Position;
